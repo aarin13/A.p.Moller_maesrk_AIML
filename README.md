@@ -14,4 +14,9 @@ Since the data wasn't in a time series format, autoencoders or recurrent models 
 The average absolute error for RFR and the neural network stood at 29.53 and 29.24, respectively.
 
 Libraries used - PyTorch, Sklearn, Seaborn, Pandas, Numpy.
-Added a excel results.xlsx with predicted values
+
+
+
+Added results.xlsx with predicted values
+![image](https://github.com/aarin13/A.p.Moller_maesrk_AIML/assets/92866904/0801dcea-c9c2-430e-9c15-a4bc27152105)
+

@@ -12,3 +12,6 @@ In the given dataset, outliers and nonsensical negative cost values were present
 Since the data wasn't in a time series format, autoencoders or recurrent models weren't applicable for predicting the next timestep occurrence.
 
 The average absolute error for RFR and the neural network stood at 29.53 and 29.24, respectively.
+
+Libraries used - PyTorch, Sklearn, Seaborn, Pandas, Numpy.
+Added a excel results.xlsx with predicted values

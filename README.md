@@ -3,7 +3,7 @@ Assesment code repo for AP Moller Maesrk
 
 # Solution
 
-When tackling the regression task with a dataset rich in categorical values, achieving highly accurate models can be challenging. However, employing encoding techniques like Label Encoder, along with tree-based methods such as Decision Trees (DT) or Random Forest Regression (RFR), proves beneficial. RFR, particularly, excels due to its ability to average over conditions of encoded categorical data, yielding a more generalized outcome over the training data trends.
+When tackling the regression task with a dataset cotaining only categorical values, achieving highly accurate models can be challenging. However, employing encoding techniques like Label Encoder, along with tree-based methods such as Decision Trees (DT) or Random Forest Regression (RFR), proves beneficial. RFR, particularly, excels due to its ability to average over conditions of encoded categorical data, yielding a more generalized outcome over the training data trends.
 
 Despite employing a feedforward neural network with two dense layers for regression, it didn't contribute significantly to improving accuracy.
 
